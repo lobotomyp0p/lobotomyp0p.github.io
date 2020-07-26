@@ -1,3 +1,7 @@
+Shamelessly cloned from Karl Broman's example, as detailed below.
+
+---
+
 ## Simple site: Easy websites with GitHub pages
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
