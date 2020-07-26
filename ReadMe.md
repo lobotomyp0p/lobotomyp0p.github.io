@@ -1,5 +1,7 @@
 Shamelessly cloned from Karl Broman's example, as detailed below.
 
+See the site [here](https://lobotomyp0p.github.io/).
+
 ---
 
 ## Simple site: Easy websites with GitHub pages
