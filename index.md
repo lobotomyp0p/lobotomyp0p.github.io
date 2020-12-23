@@ -5,7 +5,7 @@ tagline: not a real doctor but i am a real worm
 description: My personal website
 ---
 
-### Reviews and essays
+### Reviews and recommendations
 - [Books & Short Stories](pages/reviews_books.html)
 - [Movies](pages/reviews_movies.html)
 - [Webcomics](pages/reviews_webcomics.html)
