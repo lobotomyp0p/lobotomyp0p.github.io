@@ -4,7 +4,8 @@ title: My personal website
 tagline: a phd with broken wings is all that i desire
 description: My personal website
 ---
-## Reviews and essays
+
+### Reviews and essays
 - [Books & Short Stories](pages/reviews_books.html)
 - [Movies](pages/reviews_movies.html)
 - [Webcomics](pages/reviews_webcomics.html)
@@ -13,10 +14,11 @@ description: My personal website
 - [Games](pages/reviews_games.html)
 - [Software](pages/reviews_software.html)
 
-## Links
+### Links
 - [Artists](pages/links_artists.html)
 - [Authors](pages/links_authors.html)
 - [Friends](pages/links_friends.html)
 
-## Twines that I've made
-- [Garbage Knight (v4)](https:lobotomyp0p.github.io/garbage_knight_draft-4.html) | A shitty RPG wherein you fight your way out of a garbage dump
+### Twines that I've made
+- [Garbage Knight (v4)](https:lobotomyp0p.github.io/garbage_knight_draft-4.html)
+    - A shitty RPG wherein you fight your way out of a garbage dump
