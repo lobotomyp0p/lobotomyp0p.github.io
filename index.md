@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My personal website
-tagline: a phd with broken wings is all that i desire
+tagline: not a real doctor but i am a real worm
 description: My personal website
 ---
 
