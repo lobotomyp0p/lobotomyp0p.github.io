@@ -12,7 +12,7 @@ description: My personal website
 - [Anime](pages/reviews_anime.html)
 - [Music](pages/reviews_music.html)
 - [Games](pages/reviews_games.html)
-- [Software](pages/reviews_software.html)
+- [Podcasts](pages/reviews_podcasts.html)
 
 ### Links
 - [Artists](pages/links_artists.html)
