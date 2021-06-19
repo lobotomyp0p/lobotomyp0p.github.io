@@ -24,5 +24,5 @@ description: My personal website
 -->
 
 ### Twines that I've made
-- [Garbage Knight (v4)](https:lobotomyp0p.github.io/garbage_knight_draft-4.html)
+- [Garbage Knight (v4)](garbage_knight_draft-4.html)
     - A shitty RPG wherein you fight your way out of a garbage dump
